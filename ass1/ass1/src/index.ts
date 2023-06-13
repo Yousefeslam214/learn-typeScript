@@ -1,0 +1,1 @@
+console.log(Math.floor(101.5))
